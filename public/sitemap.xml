@@ -2,19 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://krishermans.netlify.com/post/first-post/</loc>
+    <loc>https://krishermans.netlify.com/about/</loc>
+    <lastmod>2017-03-26T11:22:53+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://krishermans.netlify.com/blog/welcome-to-my-blog-again-/</loc>
     <lastmod>2017-03-25T15:25:24+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://krishermans.netlify.com/</loc>
+    <loc>https://krishermans.netlify.com/blog/</loc>
     <lastmod>2017-03-25T15:25:24+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://krishermans.netlify.com/post/</loc>
-    <lastmod>2017-03-25T15:25:24+01:00</lastmod>
+    <loc>https://krishermans.netlify.com/fixed/</loc>
+    <lastmod>2017-03-26T11:22:53+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://krishermans.netlify.com/</loc>
+    <lastmod>2017-03-26T11:22:53+02:00</lastmod>
     <priority>0</priority>
   </url>
   
