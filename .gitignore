@@ -1,6 +1,6 @@
 # Mac
-.DS_Store
-*/**/.DS_Store
+# .DS_Store
+# */**/.DS_Store
 
 # exampleSite
-themes/cocoa/exampleSite/public
+# themes/cocoa/exampleSite/public
