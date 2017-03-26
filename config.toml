@@ -1,5 +1,5 @@
 baseURL                 = "https://krishermans.netlify.com"
-
+theme                   = "cocoa"
 builddrafts             = false
 canonifyurls            = true
 contentdir              = "content"
