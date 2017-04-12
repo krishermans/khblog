@@ -20,7 +20,7 @@ While setting up the scene, I did the following:
 - remove everything from the scene
 - add the `HoloLensCamera`
 - don't add any cursors yet (we're only experimenting with gaze)
-- don't add the `InputManager`, `EventSystem` or `Managers-GameObject`
+- do add the `InputManager` and `EventSystem` in the `Managers-GameObject`
 - don't add spacial mapping
 - create an empty `GameObject` called _CarPark_ and add two cubes. Name them _lot1_ and _lot2_. Like I said: I'm thinking about a case of visualising a parking lot, so therefore I've come up with some meaningfull names instead of cube1 and cube2
 - Place the cubes in front of the camera
